@@ -1,0 +1,24 @@
+{
+  "name": "bonsai-image-pipeline-lib",
+  "version": "0.0.1",
+  "description": "javascript library for bonsai-image",
+  "homepage": "https://github.com/nishlumi/bonsai-image-pipeline-lib#readme",
+  "bugs": {
+    "url": "https://github.com/nishlumi/bonsai-image-pipeline-lib/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishlumi/bonsai-image-pipeline-lib.git"
+  },
+  "license": "MIT",
+  "author": "nishlumi",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
