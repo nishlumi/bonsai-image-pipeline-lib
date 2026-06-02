@@ -1,6 +1,6 @@
 {
   "name": "bonsai-image-pipeline-lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "javascript library for bonsai-image",
   "homepage": "https://github.com/nishlumi/bonsai-image-pipeline-lib#readme",
   "bugs": {
